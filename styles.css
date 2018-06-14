@@ -60,8 +60,8 @@ a.contactEmail {
 	height: 40%;
   min-width: 30%;
   width: 2%;
-  font-size: 12px;
-  padding-top: 2%;
+  font-size: 1.5ex;
+  /* padding-top: 2%; */
   text-align: center;
   text-decoration: none;
 }
