@@ -28,6 +28,7 @@ form,
 .contactItem {
   display: flex;
   flex-direction: row;
+	margin-left: 0;
 }
 input {
 	margin: 1rem 0;
@@ -43,8 +44,9 @@ button {
 }
 
 /* ---------------------------------CONTACT---------------------------------- */
+figure,
 img {
-	max-width: 20%;
+	max-width: 1500%;
 	min-width: 10%;
 	max-height: 50px;
 	height: auto;
@@ -58,13 +60,17 @@ a.contactEmail {
 	height: 40%;
   min-width: 30%;
   width: 2%;
-  font-size: 2ex;
+  font-size: 12px;
   padding-top: 2%;
-  text-align:center;
+  text-align: center;
   text-decoration: none;
 }
 a.contactEmail {
   margin-top: 15px;
+}
+p.contactLabel {
+	padding-left: 0;
+	padding-right: 0;
 }
 
 /*---------------------------MEDIA QUERY--------------------------------------*/
