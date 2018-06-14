@@ -31,7 +31,7 @@ var contactForm = {
   photo: '',
 };
 
-// // object all App
+// object all App
 var App = React.createClass({
   render: function() {
     return (
