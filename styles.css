@@ -52,7 +52,7 @@ img {
 	height: auto;
 	display: block;
 	margin: 0;
-  border: 2px solid #000;
+  /* border: 2px solid #000; */
 }
 
 p.contactLabel,
@@ -60,7 +60,7 @@ a.contactEmail {
 	height: 40%;
   min-width: 30%;
   width: 2%;
-  font-size: 1.5ex;
+  font-size: 2ex;
   /* padding-top: 2%; */
   text-align: center;
   text-decoration: none;
